@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/PedroChDesarrollo/github-workflows-cicd/compare/v0.1.1...v1.0.0) (2023-09-04)
+
+
+* refactor!: BREAKING CHANGE ([cc13545](https://github.com/PedroChDesarrollo/github-workflows-cicd/commit/cc135457cf549f018b18f5fc77cebceeca9cabac))
+
+
+### BREAKING CHANGES
+
+* All comments were removed
+
+
+
 ## [0.1.1](https://github.com/PedroChDesarrollo/github-workflows-cicd/compare/v0.1.0...v0.1.1) (2023-09-04)
 
 
